@@ -1,0 +1,4 @@
+UPDATE Persons1
+SET Address='GEC_RAIPUR'
+WHERE PersonsID=2;
+SET SQL_SAFE_UPDATES=0;

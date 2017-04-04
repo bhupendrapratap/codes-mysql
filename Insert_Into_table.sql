@@ -1,0 +1,6 @@
+INSERT INTO Persons(PersonsID,LastName,FirstName,Address,city)
+VALUES(1,'SHAJI','NIJO','NITRR','DELHI'),
+(2,'YADAV','JAY','NITRR','BHATGAON'),
+(3,'KUMAR','MOHIT','NITRR','RAJSTHAN'),
+(4,'GUPTA','NEERAJ','NITRR','BIHAR'),
+(5,'LALWANI','NIKHIL','NITRR','BHILAI');
